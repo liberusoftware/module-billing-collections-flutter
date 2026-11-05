@@ -1,0 +1,15 @@
+{
+  "repository": "module-billing-collections-flutter",
+  "capabilityKey": "liberusoftware/module-billing-collections",
+  "presentation": "mobile-flutter",
+  "package": "module_billing_collections_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/billing/nextjs/collections.md",
+  "presentationPlan": "projects/billing/flutter/collections.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "billing"
+  ]
+}
